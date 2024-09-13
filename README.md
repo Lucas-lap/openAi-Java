@@ -13,6 +13,16 @@ Este projeto foi desenvolvido como parte do curso [GPT e Java: Integre uma Aplic
 - OpenAI API
 - Maven
 
+## Descrição do projeto
+
+Este projeto é um Assistente de Planejamento de Viagens baseado na API da OpenAI, criado para ajudar usuários a planejar suas viagens de forma personalizada e interativa. O sistema sugere roteiros, atrações turísticas e dicas com base nas preferências do usuário e duração da viagem.
+
+## Funcionalidades
+
+- Sugestão de roteiros personalizados
+- Recomendações de atrações turísticas e restaurantes
+- Dicas sobre o clima, transporte e cultura local
+
 ## Como Executar
 
 1. Clone o repositório
